@@ -8,6 +8,3 @@ Since we've already cleaned the data, there won't be much data preprocessing; on
 
 ## Conclusion
 Using the provided data, we built a DecisionTreeClassifier that predicts the best option with an accuracy of 0.793.
-
-## Rendered on nbviewer
-https://nbviewer.org/github/1vth1nk3r/P_DS_01_Intro_ML/blob/main/01_Intro_ML.ipynb
